@@ -24,6 +24,7 @@
   "homepage": "https://github.com/bwittenbrook3/ember-computed-decorators-codemod#readme",
   "dependencies": {
     "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "execa": "^1.0.0",
     "jscodeshift": "^0.3.29"
   },
   "devDependencies": {
